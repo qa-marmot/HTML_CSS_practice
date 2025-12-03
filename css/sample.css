@@ -1,0 +1,23 @@
+body {
+  background-color: gray;
+  color: #00ff00;
+  font-family:
+    "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+  line-height: 1.5;
+  padding: 1rem;
+  text-align: center;
+}
+p,
+h1 {
+  color: #ff0000;
+  font-weight: bold;
+  margin-left: 20px;
+  font-size :24px;
+}
+h2 {
+  font-weight: bold;
+}
+section p{
+  color: #0000ff;
+  font-size: 1.1em;
+}
